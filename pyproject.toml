@@ -12,7 +12,6 @@ authors = [
 package-mode = false
 readme = "README.md"
 requires-python = ">=3.8"
-dependencies = []
 
 [tool.poetry.dependencies]
 python = "^3.11"
