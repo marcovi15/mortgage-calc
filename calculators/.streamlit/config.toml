@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#3498DB"          # Bright blue accent
+backgroundColor="#121212"       # Dark gray
+secondaryBackgroundColor="#1E1E1E"
+textColor="#E0E0E0"             # Light gray text
+font="sans serif"
