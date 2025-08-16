@@ -6,12 +6,9 @@ build-backend = "setuptools.build_meta"
 name = "mortgage-calc"
 version = "0.1.0"
 description = "Mortgage calculator to answer niche questions"
-authors = [
-  { name="Marco Virgili", email="marco.virgili15@gmail.com" }
-]
+authors = ["Marco Virgili, marco.virgili15@gmail.com"]
 package-mode = false
 readme = "README.md"
-requires-python = ">=3.8"
 
 [tool.poetry.dependencies]
 python = "^3.11"
