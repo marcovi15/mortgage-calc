@@ -1,7 +1,3 @@
-# import sys
-# import os
-# sys.path.append(os.path.dirname(os.path.dirname(__file__)))
-
 import streamlit as st
 from src.interest_utils import calculate_rate_with_broker
 
